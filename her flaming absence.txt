@@ -1,0 +1,10 @@
+Cmaj7 7fh x4
+Cmaj7 7f Cmaj7 2f x2
+C G D C x2
+D C x4
+Cmaj7 7f Cmaj7 2f x2
+C G D C x2
+D C x4
+Dmaj7 Cmaj7 x4
+Cmaj7 7f Cmaj7 2f x2
+Cmaj7 7fh x4
