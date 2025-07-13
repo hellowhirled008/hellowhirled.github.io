@@ -1,0 +1,8 @@
+G#aug F#aug Eaug Daug x2
+G#dim F#dim Edim Ddim x4
+Emaj9 E69 E7(no5) E7sus4 x4
+G#dim F#dim Edim Ddim x4
+Emaj9 E69 E7(no5) E7sus4 x4
+G#aug F#aug Eaug Daug x4
+
+bass: G# F# E D whole song
